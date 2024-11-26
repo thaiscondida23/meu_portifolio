@@ -13,6 +13,9 @@ h1, h2, h5 {
   font-weight: 700;
 }
 
+footer a {
+  color: var(--cor-principal);
+}
 footer a: hoover {
   color: var(--cor-destaque);
 }
